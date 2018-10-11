@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookStore App</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="delete_all_books">Delete All Books</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_activity_title_new_book">Add a Book</string>
+    <string name="editor_activity_title_edit_book">Edit Book</string>
+    <string name="editor_update_book_successful">Book updated</string>
+    <string name="editor_update_book_failed">Error with updating book</string>
+    <string name="empty_view_title_text">No Items Entered</string>
+    <string name="empty_view_subtitle_text">Get started by pressing the red button</string>
+    <string name="editor_insert_book_failed">Error with saving Book</string>
+    <string name="editor_insert_book_successful">Book Saved</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+    <string name="editor_delete_book_successful">Book deleted</string>
+
+
+</resources>
